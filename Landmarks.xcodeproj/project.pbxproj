@@ -16,6 +16,7 @@
 		918B4A242A9AB4470055E5FF /* LandmarksUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 918B4A232A9AB4470055E5FF /* LandmarksUITestsLaunchTests.swift */; };
 		918B4A312A9AC2FC0055E5FF /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 918B4A302A9AC2FC0055E5FF /* CircleImage.swift */; };
 		918B4A332A9AC4620055E5FF /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 918B4A322A9AC4620055E5FF /* MapView.swift */; };
+		918B4A352A9C011A0055E5FF /* landmarkData.json in Resources */ = {isa = PBXBuildFile; fileRef = 918B4A342A9C011A0055E5FF /* landmarkData.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,7 @@
 		918B4A232A9AB4470055E5FF /* LandmarksUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarksUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		918B4A302A9AC2FC0055E5FF /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 		918B4A322A9AC4620055E5FF /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
+		918B4A342A9C011A0055E5FF /* landmarkData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = landmarkData.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 		918B4A052A9AB4460055E5FF /* Landmarks */ = {
 			isa = PBXGroup;
 			children = (
+				918B4A342A9C011A0055E5FF /* landmarkData.json */,
 				918B4A062A9AB4460055E5FF /* LandmarksApp.swift */,
 				918B4A082A9AB4460055E5FF /* ContentView.swift */,
 				918B4A322A9AC4620055E5FF /* MapView.swift */,
@@ -239,6 +242,7 @@
 			files = (
 				918B4A0E2A9AB4470055E5FF /* Preview Assets.xcassets in Resources */,
 				918B4A0B2A9AB4470055E5FF /* Assets.xcassets in Resources */,
+				918B4A352A9C011A0055E5FF /* landmarkData.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
