@@ -21,6 +21,7 @@
 		918B4A392A9C031F0055E5FF /* ModelData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 918B4A382A9C031F0055E5FF /* ModelData.swift */; };
 		918B4A3E2A9C05530055E5FF /* LandmarkRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 918B4A3D2A9C05530055E5FF /* LandmarkRow.swift */; };
 		918B4A402A9C06AC0055E5FF /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 918B4A3F2A9C06AC0055E5FF /* LandmarkList.swift */; };
+		918B4A422A9C31500055E5FF /* LandmarkDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 918B4A412A9C31500055E5FF /* LandmarkDetail.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -58,6 +59,7 @@
 		918B4A382A9C031F0055E5FF /* ModelData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelData.swift; sourceTree = "<group>"; };
 		918B4A3D2A9C05530055E5FF /* LandmarkRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkRow.swift; sourceTree = "<group>"; };
 		918B4A3F2A9C06AC0055E5FF /* LandmarkList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkList.swift; sourceTree = "<group>"; };
+		918B4A412A9C31500055E5FF /* LandmarkDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkDetail.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -151,6 +153,7 @@
 				918B4A082A9AB4460055E5FF /* ContentView.swift */,
 				918B4A3D2A9C05530055E5FF /* LandmarkRow.swift */,
 				918B4A3F2A9C06AC0055E5FF /* LandmarkList.swift */,
+				918B4A412A9C31500055E5FF /* LandmarkDetail.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -305,6 +308,7 @@
 			files = (
 				918B4A092A9AB4460055E5FF /* ContentView.swift in Sources */,
 				918B4A332A9AC4620055E5FF /* MapView.swift in Sources */,
+				918B4A422A9C31500055E5FF /* LandmarkDetail.swift in Sources */,
 				918B4A072A9AB4460055E5FF /* LandmarksApp.swift in Sources */,
 				918B4A402A9C06AC0055E5FF /* LandmarkList.swift in Sources */,
 				918B4A312A9AC2FC0055E5FF /* CircleImage.swift in Sources */,
